@@ -1,4 +1,4 @@
-# recipes
+# Recipes
 What's your recipes next week? 
 
 Have you ever had a hard time thinking about what to eat? This project aims to generate random recipes for you based on a list of recipes. 
