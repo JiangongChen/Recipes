@@ -11,9 +11,9 @@ import os
 import copy
 
 # total number of recipes to be generated
-RECIPE_NUM = 15
+RECIPE_NUM = 13
 # number of recipes which are very easy to cook
-LAZY_NUM = 2
+LAZY_NUM = 1
 LAZY_FILE = 'feel_lazy.txt'
 # file name which stores regular recipes
 RECIPE_LIST_NAME = 'regular.txt'
