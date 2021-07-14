@@ -73,6 +73,7 @@ if __name__ == '__main__':
     # store the recipes in the file
     file_name = day_gene + '.txt'
     with open(TARGET_DIRE+file_name,'w') as f:
+        f.write("0 ginger, green onion\n") # write necessary items
         for i in range(len(recipes_gene)):
             recipe = recipes_gene[i]
             f.write(str(i+1) + '. ' + recipe + '\n')
